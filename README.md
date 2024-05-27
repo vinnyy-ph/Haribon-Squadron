@@ -62,7 +62,7 @@ This repository contains the source code for Haribon Squadrons, a space invader-
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/haribon-squadrons.git
+   git clone https://github.com/vinnyy-ph/Haribon-Squadron.git
    ```
 
 2. **Change the directory to the repository**:
