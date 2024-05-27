@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <p align="center">
-    <img src="images/cover.bmp" alt="Logo" width="auto" height="120">
+    <img src="images/cover.bmp" alt="Logo" width="600" height="auto">
   </p>
 
   <p align="center">
