@@ -34,26 +34,23 @@
 
 This repository contains the source code for Haribon Squadrons, a space Alien-like game themed around Pamantasan ng Lungsod ng Maynila (PLM). Developed as a submission for our finals project in the course Computer Architecture and Organization, this game showcases our skills in x86 assembly language programming and our creativity.
 
-  <summary><h2 style="display: inline-block">⚙ Technology Used</h2></summary>
-  <ol>
-    <li>
-      Assembly Language: The game is written entirely in x86 assembly language, showcasing our ability to program at a low level.
-    </li>
-    <li>
-      Assembler: We used Turbo Assembler to compile our assembly code.
-    </li>
-    <li>
-      For testing and running the game, we used DOSBox to emulate the x86 environment.
-    </li>
+### **⚙ Technology Used**
 
-  </ol>
+1. Assembly Language: The game is written entirely in x86 assembly language, showcasing our ability to program at a low level.
+2. Assembler: We used Turbo Assembler to compile our assembly code.
+3. Environment: For testing and running the game, we used DOSBox to emulate the x86 environment.
 
 ## 🆕 Getting Started
 
 - ### **Prerequisites**
 
-  - <a href="https://www.dosbox.com/">DOSBox Emulator</a>
-  - TASM Assembler Tools (already included in this repository)
+  - Operating System: Windows, macOS, or Linux
+  - Processor: Any modern processor capable of running DOSBox
+  - Memory: At least 512 MB of RAM
+  - Storage: 10 MB of available disk space
+  - Additional Software:   
+    - <a href="https://www.dosbox.com/">DOSBox Emulator</a>
+    - TASM Assembler Tools (already included in this repository)
 
 <!-- GETTING STARTED -->
 
