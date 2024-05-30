@@ -53,7 +53,7 @@ This repository contains the source code for Haribon Squadrons, a space Alien-li
 - ### **Prerequisites**
 
   - <a href="https://www.dosbox.com/">DOSBox Emulator</a>
-  - TASM Assembler Tools
+  - TASM Assembler Tools (already included in this repository)
 
 <!-- GETTING STARTED -->
 
