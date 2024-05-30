@@ -80,6 +80,11 @@ This repository contains the source code for Haribon Squadrons, a space Alien-li
    main.exe
    ```
 
+❓ Troubleshooting Tips
+
+ - Game Not Starting: Ensure that you have correctly mounted the game directory in DOSBox and that the game files are in the correct location.
+ - Performance Issues: Adjust DOSBox settings for better performance by tweaking the CPU cycles (cycles parameter in dosbox.conf).
+
 ## ❗❗ Disclaimer
 
 This project was developed as part of our coursework for Computer Architecture and Organization at Pamantasan ng Lungsod ng Maynila (PLM). It is intended for educational purposes only and may not be suitable for production use.
