@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    Haribon Squadrons is a nostalgic space invader-like game themed around Pamantasan ng Lungsod ng Maynila (PLM) and is written in the old x86 Assembly Language.
+    Haribon Squadrons is a nostalgic space Alien-like game themed around Pamantasan ng Lungsod ng Maynila (PLM) and is written in the old x86 Assembly Language.
     <br />
 </p>
 
@@ -32,7 +32,7 @@
 
 ## 💡 About The Project
 
-This repository contains the source code for Haribon Squadrons, a space invader-like game themed around Pamantasan ng Lungsod ng Maynila (PLM). Developed as a submission for our finals project in the course Computer Architecture and Organization, this game showcases our skills in x86 assembly language programming and our creativity.
+This repository contains the source code for Haribon Squadrons, a space Alien-like game themed around Pamantasan ng Lungsod ng Maynila (PLM). Developed as a submission for our finals project in the course Computer Architecture and Organization, this game showcases our skills in x86 assembly language programming and our creativity.
 
   <summary><h2 style="display: inline-block">⚙ Technology Used</h2></summary>
   <ol>
