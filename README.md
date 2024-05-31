@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <p align="center">
-    <img src="images/cover.bmp" alt="Logo" width="600" height="auto">
+    <img src="images/cover.bmp" alt="game title" width="600" height="auto">
   </p>
 
   <p align="center">
@@ -40,10 +40,9 @@ This repository contains the source code for Haribon Squadrons, a space Alien-li
 
 ### **🎮 Gameplay Demo**
 
-<video width="600" controls>
-  <source src="images/haribon-squadron-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <p align="center">
+    <img src="images/haribon-gameplay-demo.gif" alt="gameplay demo" width="600" height="auto">
+  </p>
 
 ### **⚙ Technology Used**
 
