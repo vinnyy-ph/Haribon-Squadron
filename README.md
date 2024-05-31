@@ -25,6 +25,7 @@
       </ul>
     </li>
     <li><a href="#-disclaimer">Disclaimer</a></li>
+    <li><a href="#-developers">Developers</a></li>
   </ol>
 </details>
 
@@ -48,7 +49,7 @@ This repository contains the source code for Haribon Squadrons, a space Alien-li
   - Processor: Any modern processor capable of running DOSBox
   - Memory: At least 512 MB of RAM
   - Storage: 10 MB of available disk space
-  - Additional Software:   
+  - Additional Software:
     - <a href="https://www.dosbox.com/">DOSBox Emulator</a>
     - TASM Assembler Tools (already included in this repository)
 
@@ -82,11 +83,25 @@ This repository contains the source code for Haribon Squadrons, a space Alien-li
 
 ❓ Troubleshooting Tips
 
- - Game Not Starting: Ensure that you have correctly mounted the game directory in DOSBox and that the game files are in the correct location.
- - Performance Issues: Adjust DOSBox settings for better performance by tweaking the CPU cycles (cycles parameter in dosbox.conf).
+- Game Not Starting: Ensure that you have correctly mounted the game directory in DOSBox and that the game files are in the correct location.
+- Performance Issues: Adjust DOSBox settings for better performance by tweaking the CPU cycles (cycles parameter in dosbox.conf).
 
 ## ❗❗ Disclaimer
 
 This project was developed as part of our coursework for Computer Architecture and Organization at Pamantasan ng Lungsod ng Maynila (PLM). It is intended for educational purposes only and may not be suitable for production use.
 
 Updates and Maintenance: This project was created as a one-time submission for a course requirement. As such, we may not actively maintain or update the repository. However, we welcome forks and further development by the community.
+
+## 👥 Developers
+
+<b>20232 Group 1 Block 1
+
+<b>LEADER: Layson, Dennis Jr.
+
+- Abbariao, Jeriel Endrix
+- Caranto, Rgee C.
+- Ferrer, Vincent P.
+- Gayares, Eunice Camille R.
+- Lumeda, Lauvigne G.
+- Mendoza, Jullaine O.
+- Peralta, Allenrey S.
