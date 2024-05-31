@@ -16,6 +16,9 @@
   <ol>
     <li>
       <a href="#-about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#-gameplay-demo">Gameplay Demo</a></li>
+      </ul>
     </li>
     <li>
       <a href="#-getting-started">Getting Started</a>
@@ -34,6 +37,13 @@
 ## 💡 About The Project
 
 This repository contains the source code for Haribon Squadrons, a space Alien-like game themed around Pamantasan ng Lungsod ng Maynila (PLM). Developed as a submission for our finals project in the course Computer Architecture and Organization, this game showcases our skills in x86 assembly language programming and our creativity.
+
+### **🎮 Gameplay Demo**
+
+<video width="600" controls>
+  <source src="images/haribon-squadron-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### **⚙ Technology Used**
 
